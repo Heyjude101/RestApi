@@ -17,8 +17,6 @@ app.get('/api/check/', (req, res)=>{
     //we have the date in yy-mm-dd format as a string
     const dateStr = req.body.date;
     const timeStr  =req.body.time;
-    //using / as delimitter we split dateStr into parts
-    //we create a java script date object from the split date
     const dateObj = stringToDate(dateStr);
    
     //we get the day using the getDay() method
