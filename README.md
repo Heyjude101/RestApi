@@ -11,8 +11,8 @@ Sample Request:
 Sample Output:
 ```
 {
-  available: true
+  isAvailable: true
 }
 ```
 
-![](https://www.github.com/Heyjude101/RestApi/blob/master/ssapi.jpg)
+![](https://github.com/Heyjude101/RestApi/blob/49101160983b3284e9bbd3375e067a90c1928bb9/ssapi.jpg)
