@@ -35,4 +35,4 @@ Sample Output:
 ```
 
 
-![](https://github.com/Heyjude101/RestApi/blob/49101160983b3284e9bbd3375e067a90c1928bb9/ssapi2.jpg)
+![](https://github.com/Heyjude101/RestApi/blob/e326fa729675735d18f4416d27065e227af50274/ssapi2.jpg)
