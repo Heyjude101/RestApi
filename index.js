@@ -12,7 +12,9 @@ const availabilityTimings =
     "saturday":[{"start":"10:30","end":"13:00"}],
     "sunday":[]}
 
-
+app.get('/' , (req , res)=>{
+   res.send("Use postman!") 
+});
 app.get('/api/check/', (req, res)=>{
     //we have the date in yy-mm-dd format as a string
     const dateStr = req.body.date;
