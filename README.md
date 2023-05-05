@@ -1,6 +1,8 @@
 # RestApi
 
-Api link: https://ritikapi.onrender.com/api/check
+Api link: (Free hosting so it takes time to load on first attempt)
+
+https://ritikapi.onrender.com/api/check
 
 Sample Request 1:
 
